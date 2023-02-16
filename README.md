@@ -30,3 +30,5 @@ And also Ili is learning programming so there's that.
 <a href="https://www.tumblr.com/blog/cowsinbathrooms">
   <img src="https://img.shields.io/badge/Tumblr-visit%20our%20blog-lightgrey" alt="Tumblr badge">
 </a>
+
+<!-- badges created here: https://shields.io -->
