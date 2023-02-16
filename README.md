@@ -19,6 +19,14 @@ And also Ili is learning programming so there's that.
 
 ## Follow us
 
+<a href="https://www.instagram.com/ili.and.marek/">
+  <img src="https://img.shields.io/badge/Instagram-visit%20our%20account-lightgrey" alt="Instagram badge">
+</a>
+
 <a href="https://www.youtube.com/channel/UCjZepU0OIhD0AKaDRYvT7nQ">
-  <img src%"https://img.shields.io/badge/YouTube-visit%20our%20channel-lightgrey" alt="YouTube badge">
+  <img src="https://img.shields.io/badge/YouTube-visit%20our%20channel-lightgrey" alt="YouTube badge">
+</a>
+
+<a href="https://www.tumblr.com/blog/cowsinbathrooms">
+  <img src="https://img.shields.io/badge/Tumblr-visit%20our%20blog-lightgrey" alt="Tumblr badge">
 </a>
