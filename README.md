@@ -11,7 +11,7 @@ We enjoy working on our relationship. Every month we
 <br> (and also crying, cause these conversations are hard hard).
 <!-- insert link to our retreat notes -->
 
-<br> We also like adventure. Hinkig, cooking in the nature, 
+<br> We also like adventure. Hiking, cooking in the nature, 
 <br> backcountry skiing, acroyoga.
 
 
